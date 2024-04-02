@@ -1,1 +1,1 @@
-<center><h1># My-Blog</h1></center>
+<h1 align = "center"># My-Blog</h1>
