@@ -12,3 +12,10 @@ My-Blog is a web application designed to provide you with an efficient environme
 
 ## How we built it 🧑‍💻
 We embarked on building our environment entirely from scratch, leveraging the power of backend technologies. Our primary tools include Node.js and Express.js, which we utilized to craft our backend application. For structuring our website, we employed EJS, enhancing it with a single CSS file to beautify the overall appearance. This meticulous approach ensures a seamless and visually appealing user experience on our platform.
+
+## How to setup
+<ul>
+  <li>First, download all the files to your local computer and navigate to the directory using the 'cd' command in your terminal. </li>
+  <li>Next, use 'nodemon' to run the 'index.js' file. Your website will be hosted on your local server at port 3000.</li>
+  <li>You can access it through your browser by typing 'localhost:3000'. Your entire website will now be accessible.</li>
+</ul>
