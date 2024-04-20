@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://alcove-istebits.netlify.app/">
     <img alt="Alcove ISTEBITS" src="./public/images/Blog-App homescreen.png" width="1000" />
-  </a>
+  </a> 
 </p>
 
 
