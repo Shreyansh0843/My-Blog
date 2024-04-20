@@ -1,6 +1,5 @@
 <h1 align = "center"># My-Blog</h1>
 
-    <img alt="Alcove ISTEBITS" src="./public/images/Blog-App homescreen.png" width="1000" />
 
 
 
