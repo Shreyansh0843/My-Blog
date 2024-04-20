@@ -1,10 +1,7 @@
 <h1 align = "center"># My-Blog</h1>
 
-<p align="center">
- 
     <img alt="Alcove ISTEBITS" src="./public/images/Blog-App homescreen.png" width="1000" />
 
-</p>
 
 
 ## What is My-Blog
